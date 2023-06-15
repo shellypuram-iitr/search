@@ -1,0 +1,52 @@
+[
+    {
+      "tenantId": "abc123",
+      "userId": "user1",
+      "time":1685620800000,
+      "conversationid": 1234567,
+      "source": "Client",
+      "details": "-Vertical ids: ---CustomizedOOTB-all,-refinerDetails : [all: {“1111”:Author}], -hasKQL :[]",
+      "drilldowndetails": "324568732496",
+      "type": "Config",
+      "link": "http://xyz.com",
+      "status": "Success",
+      "table": "Prefect"
+    },
+    {
+      "tenantId": "abc123",
+      "userId": "user1",
+      "time":1685664000000,
+      "conversationid": 1234568,
+      "source": "Source 2",
+      "details": "Details 2",
+      "drilldowndetails": "Drilldown Details 2",
+      "type": "Type 2",
+      "link": "Link 2",
+      "status": "Status 2"
+    },
+    {
+        "tenantId": "abc123",
+        "userId": "user1",
+        "time":1685664000000,
+        "conversationid": 1234568,
+        "source": "Source 1",
+        "details": "Details 1",
+        "drilldowndetails": "Drilldown Details 1",
+        "type": "Type 1",
+        "link": "Link 1",
+        "status": "Status 1"
+      },
+      {
+        "tenantId": "abc123",
+        "userId": "user1",
+        "time": 1685620800000,
+        "conversationid":1234567,
+        "source": "Source 1",
+        "details": "Details 1",
+        "drilldowndetails": "Drilldown Details 1",
+        "type": "Type 1",
+        "link": "Link 1",
+        "status": "Status 1"
+      }
+  ]
+  

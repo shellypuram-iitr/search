@@ -1,0 +1,42 @@
+[
+    {
+        "tenantid": "def123",
+        "userid": "user2",
+        "timestamp":  1685620800000,
+        "conversationid": 1234567,
+        "result": "success"
+    },
+    {
+        "tenantid": "abc123",
+        "userid": "user1",
+        "timestamp": 1685620800000,
+        "conversationid":1234567,
+        "result": "success"
+    },
+
+    {
+        "tenantid": "def123",
+        "userid": "user2",
+        "timestamp":  1685740200000,
+        "conversationid": 1234569,
+        "result": "success"
+    },
+
+
+   
+    {
+        "tenantid": "abc123",
+        "userid": "user1",
+        "timestamp": 1685866200000 ,
+        "conversationid": 1234560,
+        "result": "success"
+    },
+
+    {
+        "tenantid": "def123",
+        "userid": "user2",
+        "timestamp": 1685992200000,
+        "conversationid": 1234563,
+        "result": "success"
+    }
+]
